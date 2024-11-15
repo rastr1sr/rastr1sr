@@ -2,6 +2,7 @@
 
 > \[!NOTE\]
 > Pronounced ***"rasterizer"***.
+> 
 > ![Kaneda GIF](assets/kaneda.gif)
 
 I’m not sure what else to say!
