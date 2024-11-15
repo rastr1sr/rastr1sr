@@ -1,8 +1,12 @@
 # Hi, I’m `@rastr1sr`
 
-> [!NOTE]
+> \[!NOTE\]
 > Pronounced ***"rasterizer"***.
+> ![Kaneda GIF](assets/kaneda.gif)
 
 I’m not sure what else to say!
 
-![Snake animation of GitHub contributions](https://raw.githubusercontent.com/rastr1sr/rastr1sr/output/snake.svg)
+
+!\[Snake Github Contribution\](<https://raw.githubusercontent.com/rastr1sr/rastr1sr/output/snake.svg>)
+
+
